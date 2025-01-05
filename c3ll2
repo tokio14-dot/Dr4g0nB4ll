@@ -1,111 +1,188 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",118
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",118
 https://archive.org/download/sagacell/%28118%29%20DBZ.mp4
-#EXTINF:-1 tvg-logo="",119
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",119
 https://archive.org/download/sagacell/%28119%29%20DBZ.mp4
-#EXTINF:-1 tvg-logo="",120
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",120
 https://archive.org/download/sagacell/%28120%29%20DBZ.mp4
-#EXTINF:-1 tvg-logo="",121
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",121
 https://archive.org/download/sagacell/%28121%29%20DBZ.mp4
-#EXTINF:-1 tvg-logo="",122
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",122
 https://archive.org/download/sagacell/%28122%29%20DBZ.mp4
-#EXTINF:-1 tvg-logo="",123
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",123
 https://archive.org/download/sagacell/%28123%29%20DBZ.mp4
-#EXTINF:-1 tvg-logo="",124
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",124
 https://archive.org/download/sagacell/%28124%29%20DBZ.mp4
-#EXTINF:-1 tvg-logo="",125
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",125
 https://archive.org/download/sagacell/%28125%29%20DBZ.mp4
-#EXTINF:-1 tvg-logo="",126
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",126
 https://archive.org/download/sagacell/%28126%29%20DBZ.mp4
-#EXTINF:-1 tvg-logo="",127
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",127
 https://archive.org/download/bflix_202501/%28127%29%20DBZ.mp4
-#EXTINF:-1 tvg-logo="",128
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",128
 https://archive.org/download/sagacell/%28128%29%20DBZ.mp4
-#EXTINF:-1 tvg-logo="",129
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",129
 https://archive.org/download/sagacell/%28129%29%20DBZ.mp4
-#EXTINF:-1 tvg-logo="",130
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",130
 https://archive.org/download/sagacell/%28130%29%20DBZ.mp4
-#EXTINF:-1 tvg-logo="",131
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",131
 https://dl.dropbox.com/scl/fi/tpa6hxnkukco87pd6w2de/131-DBZ.mp4?rlkey=kd7bz6ty8cqgbtjgblcxxfyd3&st=cfyozl44&dl=0
-#EXTINF:-1 tvg-logo="",132
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",132
 https://dl.dropbox.com/scl/fi/wgebtomtxux8dsigv2pqh/132-DBZ.mp4?rlkey=2gyy233pqsrsn4dsezroknmjh&st=4rbdezad&dl=0
-#EXTINF:-1 tvg-logo="",133
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",133
 https://dl.dropbox.com/scl/fi/1fzejun6iwd7124toc2vb/133-DBZ.mp4?rlkey=vfw5liyqe5ghvmuf2mnkrobrh&st=p5virml1&dl=0
-#EXTINF:-1 tvg-logo="",134
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",134
 https://dl.dropbox.com/scl/fi/0hcjuyyolw02uhqr41tnv/134-DBZ.mp4?rlkey=44t1d99up172eadoba9w4eqsk&st=mdr0b0ew&dl=0
-#EXTINF:-1 tvg-logo="",135
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",135
 https://dl.dropbox.com/scl/fi/9vx3g9ps9h7ghfemu50ad/135-DBZ.mp4?rlkey=1ae98us7dhs8x6w1cztyzp1b0&st=ed5nktyh&dl=0
-#EXTINF:-1 tvg-logo="",136
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",136
+https://www.dropbox.com/scl/fi/ga56u86a1wfbtvn32kl2n/136-DBZ.mp4?rlkey=2d6rhnaeecxepzyxwwqhhtdmm&st=se00d2um&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",137
+https://dl.dropbox.com/scl/fi/0f2ux4zllu4nq08mxzgjp/137-DBZ.mp4?rlkey=tiilanfk30h3ef2k9rw6vfp4l&st=blweng2c&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",138
+https://dl.dropbox.com/scl/fi/6vw62ke2aq9s571dbsy4v/138-DBZ.mp4?rlkey=80donpgddtl7bj5n6hz291pdu&st=2cbcguw1&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",139
+https://dl.dropbox.com/scl/fi/4z7gg4ih90nfun0hf8wtw/139-DBZ.mp4?rlkey=bn5570hozwo1e5o217tztsmkn&st=qe0dmlf1&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",140
+https://dl.dropbox.com/scl/fi/83l4y6di0lz2adv05mabp/140-DBZ.mp4?rlkey=i70p3ry7gxnk1hro7lc1ovthk&st=hclz86yj&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",141
+https://dl.dropbox.com/scl/fi/nh7pr6dwv2mtdmd1lqmco/141-DBZ.mp4?rlkey=ohjrrhzmgxha551i64d6jiq40&st=p2d9y0mm&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",142
+https://dl.dropbox.com/scl/fi/ypkekd39104sp5yzbi54f/142-DBZ.mp4?rlkey=3u9kczdyeupztln9ruojzco9a&st=utz71ilg&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",143
+https://dl.dropbox.com/scl/fi/2nn3nfx8rwpv7yweb8a9z/143-DBZ.mp4?rlkey=pi1ogxqudksod7ymrgk765oks&st=esh6l8x1&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",144
+https://dl.dropbox.com/scl/fi/y7w0hjooshvro0t9jj657/144-DBZ.mp4?rlkey=etjvxhr9604rn04xvzvz0ywxg&st=cixmyt24&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",145
+https://dl.dropbox.com/scl/fi/bg7psd24xqlw65uk0tz4t/145-DBZ.mp4?rlkey=f4yo391redt92prkjj3wgfasy&st=ven56o76&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",146
+https://dl.dropbox.com/scl/fi/s9f24l5isengjf2gqfg5x/146-DBZ.mp4?rlkey=th0fjyp2im9yw9gy9opkq04n7&st=ttfnpzcj&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",147
+https://dl.dropbox.com/scl/fi/qr734bm94gg4ebecqoc0x/147-DBZ.mp4?rlkey=djh7hqq9713ef3tdlnhnzp15y&st=1ir3bzoz&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",148
+https://dl.dropbox.com/scl/fi/r4blvvu2aox37vvdkcycv/149-DBZ.mp4?rlkey=iojk6lt9gocu57bfehc8lmtar&st=a8nt2ccl&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",149
+https://dl.dropbox.com/scl/fi/r4blvvu2aox37vvdkcycv/149-DBZ.mp4?rlkey=iojk6lt9gocu57bfehc8lmtar&st=rflzng8f&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",150
+https://dl.dropbox.com/scl/fi/e59z0k1bnzjmge5e0y0yq/150-DBZ.mp4?rlkey=gt5dygn6v7sanlokuh7yr5pgk&st=28q70zvd&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",151
+https://dl.dropbox.com/scl/fi/z1mfd2ipcq9p5evah95ey/151-DBZ.mp4?rlkey=x4kuf3e3d5zoq8fdginc8aoev&st=g8kiwmpj&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",152
+https://dl.dropbox.com/scl/fi/o8opsbx8ezurp7i6lyqzj/152-DBZ.mp4?rlkey=xckxio9pah9he1zehr1fvmm35&st=hf53b0om&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",153
+https://dl.dropbox.com/scl/fi/s467qf5o4q6zxpj938blf/153-DBZ.mp4?rlkey=cht9ohh7fbrmf0yw0pkjmxsyv&st=iqbwg1bb&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",154
+https://dl.dropbox.com/scl/fi/rqhw5d3mk82gossbhinpk/155-DBZ.mp4?rlkey=mvt40fzbmcz4t017f91gllnh3&st=rrzixk8k&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",155
 
-#EXTINF:-1 tvg-logo="",137
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",156
 
-#EXTINF:-1 tvg-logo="",138
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",157
 
-#EXTINF:-1 tvg-logo="",139
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",158
 
-#EXTINF:-1 tvg-logo="",140
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",159
 
-#EXTINF:-1 tvg-logo="",141
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",160
 
-#EXTINF:-1 tvg-logo="",142
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",161
 
-#EXTINF:-1 tvg-logo="",143
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",162
 
-#EXTINF:-1 tvg-logo="",144
-#EXTINF:-1 tvg-logo="",145
-#EXTINF:-1 tvg-logo="",146
-#EXTINF:-1 tvg-logo="",147
-#EXTINF:-1 tvg-logo="",148
-#EXTINF:-1 tvg-logo="",149
-#EXTINF:-1 tvg-logo="",150
-#EXTINF:-1 tvg-logo="",151
-#EXTINF:-1 tvg-logo="",152
-#EXTINF:-1 tvg-logo="",153
-#EXTINF:-1 tvg-logo="",154
-#EXTINF:-1 tvg-logo="",155
-#EXTINF:-1 tvg-logo="",156
-#EXTINF:-1 tvg-logo="",157
-#EXTINF:-1 tvg-logo="",158
-#EXTINF:-1 tvg-logo="",159
-#EXTINF:-1 tvg-logo="",160
-#EXTINF:-1 tvg-logo="",161
-#EXTINF:-1 tvg-logo="",162
-#EXTINF:-1 tvg-logo="",163
-#EXTINF:-1 tvg-logo="",164
-#EXTINF:-1 tvg-logo="",165
-#EXTINF:-1 tvg-logo="",166
-#EXTINF:-1 tvg-logo="",167
-#EXTINF:-1 tvg-logo="",168
-#EXTINF:-1 tvg-logo="",169
-#EXTINF:-1 tvg-logo="",170
-#EXTINF:-1 tvg-logo="",171
-#EXTINF:-1 tvg-logo="",172
-#EXTINF:-1 tvg-logo="",173
-#EXTINF:-1 tvg-logo="",174
-#EXTINF:-1 tvg-logo="",175
-#EXTINF:-1 tvg-logo="",176
-#EXTINF:-1 tvg-logo="",177
-#EXTINF:-1 tvg-logo="",178
-#EXTINF:-1 tvg-logo="",179
-#EXTINF:-1 tvg-logo="",180
-#EXTINF:-1 tvg-logo="",181
-#EXTINF:-1 tvg-logo="",182
-#EXTINF:-1 tvg-logo="",183
-#EXTINF:-1 tvg-logo="",184
-#EXTINF:-1 tvg-logo="",185
-#EXTINF:-1 tvg-logo="",186
-#EXTINF:-1 tvg-logo="",187
-#EXTINF:-1 tvg-logo="",188
-#EXTINF:-1 tvg-logo="",189
-#EXTINF:-1 tvg-logo="",190
-#EXTINF:-1 tvg-logo="",191
-#EXTINF:-1 tvg-logo="",192
-#EXTINF:-1 tvg-logo="",193
-#EXTINF:-1 tvg-logo="",194
-#EXTINF:-1 tvg-logo="",195
-#EXTINF:-1 tvg-logo="",196
-#EXTINF:-1 tvg-logo="",197
-#EXTINF:-1 tvg-logo="",198
-#EXTINF:-1 tvg-logo="",199
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",163
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",164
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",165
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",166
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",167
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",168
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",169
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",170
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",171
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",172
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",173
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",174
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",175
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",176
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",177
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",178
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",179
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",180
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",181
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",182
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",183
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",184
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",185
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",186
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",187
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",188
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",189
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",190
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",191
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",192
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",193
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",194
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",195
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",196
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",197
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",198
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hxEVDiDJXx5pjKosXm4iBBj9Ww.jpg",199
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+__________
